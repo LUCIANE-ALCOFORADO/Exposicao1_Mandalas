@@ -1,4 +1,6 @@
-# Mandala 4 lemniscata de Bernoulli
+# Mandala 4 
+# Criada com a curva lemniscata de Bernoulli considerando meia volta
+# Coloração sequencial com base nas reduções
 
 require(ggplot2)
 n = 500; theta = seq(0, pi, length.out = n)
@@ -20,6 +22,6 @@ p = ggplot()+coord_fixed()+theme_void()
         
         p = p+geom_point(data=dt, aes(x=x, y=y), color=colors()[i], size=0.15)
         }
-        p = p + theme(panel.background = element_rect(fill = "black")  )
+        # p = p + theme(panel.background = element_rect(fill = "black")  )
         p 
 
