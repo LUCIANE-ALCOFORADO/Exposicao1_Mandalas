@@ -1,7 +1,6 @@
-
-
-
-
+# Mandala 5 - Capa do Livro
+# Criada com a curva lemniscata de Gerono 
+# Coloração sequencial com base nas reduções
 
 nrot = 13
 rotacao = seq(0, pi, pi/nrot)
