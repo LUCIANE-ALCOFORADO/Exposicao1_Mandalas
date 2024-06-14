@@ -2,6 +2,8 @@
 
 Nossa primeira exposição de Mandalas, realizada em Niterói durante o VIII Seminário Internacional de Estatística com R, de 03 a 06 de junho de 2024.
 
+Acesso online: < https://lucianealcoforado.shinyapps.io/exposicao_mandala_2024/>
+
 # Autores Curadores
 
 Luciane Ferreira Alcoforado & João Paulo Martins dos Santos
